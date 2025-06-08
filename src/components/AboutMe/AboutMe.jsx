@@ -8,7 +8,7 @@ export const AboutMe = () => {
           src={Perfil}
           alt="Foto de perfil Joice Camargo"
           className="
-            w-32 h-32
+            w-[100%] h-auto
             sm:w-40 sm:h-40
             md:w-48 md:h-48
             lg:w-56 lg:h-56
@@ -19,7 +19,7 @@ export const AboutMe = () => {
         />
         <div className="w-full sm:w-3/4 md:w-2/3 lg:w-1/2 2xl:w-2/5 text-center 2xl:text-left">
           <h1 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-4">
-            Joice Camargott
+            Joice Camargo
           </h1>
           <p className="text-base sm:text-lg md:text-xl leading-relaxed mb-6">
             Arquiteta com mais de 17 anos de experiência, atua em reformas e
