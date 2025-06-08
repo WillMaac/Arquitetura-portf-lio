@@ -1,17 +1,23 @@
-import Fundo from "../../assets/Rectangle.png"
-export const Inicio = () =>{
-return(
-    <div className="relative w-full h-96">
-        <img
+import Fundo from "../../assets/Rectangle.png";
+
+export const Inicio = () => {
+  return (
+    <div className="relative w-full h-80 sm:h-96 md:h-[32rem] lg:h-[40rem]">
+      <img
         src={Fundo}
+        alt="Fundo"
         className="absolute inset-0 w-full h-full object-cover"
-        />
-        <div className="absolute inset-0 bg-opacity-50 flex flex-col justify-center items-center p-4 mr-[500px] mt-25">
-<h1 className="text-white text-3xl font-serif font-semibold mb-6 leading-tight">BUSCAMOS ENTENDER <br/>
-        O GOSTO DO CLIENTE
+      />
+      <div className="absolute inset-0 bg-black/30 flex flex-col justify-center items-center px-4">
+        <h1 className="text-white text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-serif font-semibold mb-6 leading-tight text-center">
+          BUSCAMOS ENTENDER
+          <br />
+          O GOSTO DO CLIENTE
         </h1>
-        <button className="border-2 border-amber-50 rounded-[20px] text-amber-50 py-2 px-10 text-center mr-45">VER  PROJETOS</button>
-        </div>
+        <button className="border-2 border-amber-50 rounded-full text-amber-50 text-sm sm:text-base md:text-lg py-2 px-6 sm:px-8 md:px-10 hover:bg-amber-50 hover:text-black transition">
+          VER PROJETOS
+        </button>
+      </div>
     </div>
-)
-}
+  );
+};

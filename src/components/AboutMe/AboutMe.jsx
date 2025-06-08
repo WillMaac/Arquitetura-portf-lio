@@ -19,7 +19,7 @@ export const AboutMe = () => {
         />
         <div className="w-full sm:w-3/4 md:w-2/3 lg:w-1/2 2xl:w-2/5 text-center 2xl:text-left">
           <h1 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-4">
-            Joice Camargo
+            Joice Camargott
           </h1>
           <p className="text-base sm:text-lg md:text-xl leading-relaxed mb-6">
             Arquiteta com mais de 17 anos de experiência, atua em reformas e
