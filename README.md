@@ -30,6 +30,13 @@ O projeto é ideal para quem deseja mostrar trabalhos de arquitetura com um visu
 
 ---
 
+## 🚀 Deploy
+
+🔗 **Acesse o projeto online:**  
+https://arquitetura-portf-lio.vercel.app/
+
+---
+
 ## 🧠 Funcionalidades
 
 ✔️ Display de seções de portfólio  
