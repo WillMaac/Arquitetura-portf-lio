@@ -1,12 +1,55 @@
-# React + Vite
+<h1 align="center">🏙️ Portfólio – Projeto Arquitetura</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-Dev-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS_Modules-Styling-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsivo-Mobile--First-yellow?style=for-the-badge" />
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+Landing page responsiva para apresentação de portfólio com foco em arquitetura, desenvolvida com React, TypeScript e Vite.
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Sobre o Projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Este projeto é uma **landing page de portfólio com temática de arquitetura**, criada para apresentar projetos, habilidades e informações de forma visualmente atraente e responsiva.
+
+Ele foi construído com as seguintes prioridades:
+
+- Componentização clara com React
+- Tipagem estrita com TypeScript
+- Estilização isolada usando CSS Modules
+- Desenvolvimento rápido e otimizado com Vite
+- Layout responsivo para qualquer dispositivo
+
+O projeto é ideal para quem deseja mostrar trabalhos de arquitetura com um visual profissional, moderno e bem organizado.
+
+---
+
+## 🧠 Funcionalidades
+
+✔️ Display de seções de portfólio  
+✔️ Seção de sobre  
+✔️ Seção de contato  
+✔️ Navegação intuitiva  
+✔️ Componentes reutilizáveis  
+✔️ Responsividade para mobile, tablet e desktop  
+✔️ Organização escalável da estrutura do projeto  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+| Tecnologia | Finalidade |
+|------------|------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React | Biblioteca principal para criação de interface baseada em componentes |
+| <img src="https://vitejs.dev/logo.svg" width="20"/> Vite | Ferramenta de build e ambiente de desenvolvimento rápido |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript | Tipagem estática para mais segurança e escalabilidade |
+| 🎨 CSS Modules | Escopo isolado de estilos por componente |
+| 📱 Responsividade | Adaptabilidade do layout para diferentes telas |
+
+---
